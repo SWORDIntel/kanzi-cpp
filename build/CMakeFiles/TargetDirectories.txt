@@ -1,0 +1,3 @@
+/opt/github/Phoenix/src/protocols/compression/kanzi_bindings/kanzi-cpp/build/CMakeFiles/kanzi.dir
+/opt/github/Phoenix/src/protocols/compression/kanzi_bindings/kanzi-cpp/build/CMakeFiles/edit_cache.dir
+/opt/github/Phoenix/src/protocols/compression/kanzi_bindings/kanzi-cpp/build/CMakeFiles/rebuild_cache.dir

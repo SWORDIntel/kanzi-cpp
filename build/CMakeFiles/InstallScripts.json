@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/opt/github/Phoenix/src/protocols/compression/kanzi_bindings/kanzi-cpp/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
